@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, steve here 👋
 
 <!--
 **SteveLauC/SteveLauC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![github stats](https://github-readme-stats.vercel.app/api?username=stevelauc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevelauc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
