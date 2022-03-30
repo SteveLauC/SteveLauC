@@ -4,5 +4,5 @@
 
 ### Contact me
 * [Stack Overflow](https://stackoverflow.com/users/14092446/steve-lau)  
-* [Mail](stevelauc@outlook.com)  
+* [Mail](mailto:stevelauc@outlook.com)  
 * [Twitter](https://twitter.com/SteveLauC)
