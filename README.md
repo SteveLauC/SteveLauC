@@ -3,7 +3,7 @@
  the way. 
 
 #### Blog
-* [Blog](https://github.com/SteveLauC/blog)
+* [Blog](https://github.com/SteveLauC/blog/issues)
 
 #### Stack Overflow and GitHub stats
 [![Steve's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=14092446&theme=tomorrow&showBorder=false)](https://stackoverflow.com/users/14092446/steve-lau)  
