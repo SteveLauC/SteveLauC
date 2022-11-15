@@ -10,6 +10,5 @@
 
 #### Find Me
 * <a href="mailto: stevelauc@outlook.com">Email Me</a> if you want, will reply though there may be some delay
-* [Twitter](https://twitter.com/SteveLauC) (Tweeting in Chinese)
 * [Reddit](https://www.reddit.com/user/steve_lau)
 * [Stack Overflow](https://stackoverflow.com/users/14092446/steve-lau)
