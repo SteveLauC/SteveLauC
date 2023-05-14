@@ -1,16 +1,6 @@
 #### About Me
  Steve is just a guy seeking happiness, value, and doing something good along 
  the way. 
- 
-#### Two quotes I really love
-1. At one end you have people who are really mathematicians, but call what they're
-   doing computer science so they can get DARPA grants. In the middle you have 
-   people working on something like the natural history of computers—studying 
-   the behavior of algorithms for routing data through networks, for example. 
-   And then at the other extreme you have the hackers, who are trying to write
-   interesting software. - Hackers & Painters (Paul Graham)
-2. What I cannot create, I do not understand. - Richard Feynman
-
 
 #### Blog
 * [Blog](https://github.com/SteveLauC/blog/issues)
