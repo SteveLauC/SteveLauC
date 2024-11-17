@@ -7,7 +7,12 @@
 
 #### GitHub stats
 
-</a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stevelauc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&bg_color=ffffff00" alt="Steve's github stats" /></a>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96880612" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96880612&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @SteveLauC" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96880612&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 #### Find Me
 * <a href="mailto: stevelauc@outlook.com">Email Me</a> if you want, will reply though there may be some delay
