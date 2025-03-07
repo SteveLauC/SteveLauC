@@ -1,6 +1,10 @@
 #### About Me
- Steve is just a guy seeking happiness, value, and doing something good along 
- the way. 
+
+Hi there, I am steve. ~~Database~~ engineer, ailurophile, bike lover (I do gravel cycling and mountain biking), future MTB trail builder, coffee drinker (mostly Americano because I can’t afford milk; I barely drink filter coffee), infrequent writer (open the blog link below, and you’ll see just how infrequent), and open-source enthusiast.
+
+
+It's really nice to meet you.
+
 
 #### Blog
 * [Blog](https://github.com/SteveLauC/blog/issues)
