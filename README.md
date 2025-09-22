@@ -22,4 +22,4 @@ It's really nice to meet you.
 * <a href="mailto: stevelauc@outlook.com">Email Me</a> if you want, will reply though there may be some delay
 * [Reddit](https://www.reddit.com/user/steve_lau)
 * [Stack Overflow](https://stackoverflow.com/users/14092446/steve-lau)
-* [Postres mailing lists](https://www.postgresql.org/search/?m=1&q=Steve+Lau&l=&d=365&s=r)
+* [Postres mailing lists](https://www.postgresql.org/search/?m=1&q=Steve+Lau&l=&d=-1&s=d)
